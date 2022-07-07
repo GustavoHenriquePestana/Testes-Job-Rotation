@@ -1,2 +1,8 @@
 Saudações, obrigado pela atenção. Caso os exercicios estejam ainda incompletos, eu ainda estou os realizando, 
 resolvi subir os códigos já realizados, para o caso de alguma verificação do meu atual progresso.
+
+
+Exercicio 2 - Sequência Fibinacci
+Exercicio 3 - Dados da distribuidora
+Exercicio 4 - Dados de faturamento mensal-distribuidora
+Exercicio 5 - Inversor de String
